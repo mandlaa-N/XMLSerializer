@@ -1,0 +1,41 @@
+         <object class="ItemPropList" name="" >
+         <object class="ItemProp" name="" >
+           <property name="des" type="QString" value="Perfume" />
+           <property name="bar" type="QString" value="3215479988" />
+           <property name="cat" type="QString" value="Cosmetics" />
+           <property name="buy" type="double" value="2.38" />
+           <property name="sell" type="double" value="2.79" />
+         </object>
+
+         <object class="ItemProp" name="" >
+           <property name="des" type="QString" value="Excercise book" />
+           <property name="bar" type="QString" value="587325111" />
+           <property name="cat" type="QString" value="Stationary" />
+           <property name="buy" type="double" value="1.08" />
+           <property name="sell" type="double" value="1.35" />
+         </object>
+
+         <object class="ItemProp" name="" >
+           <property name="des" type="QString" value="Tooth paste" />
+           <property name="bar" type="QString" value="3254585585" />
+           <property name="cat" type="QString" value="Toiletries" />
+           <property name="buy" type="double" value="1.39" />
+           <property name="sell" type="double" value="1.88" />
+         </object>
+
+         <object class="ItemProp" name="" >
+           <property name="des" type="QString" value="Paracetamol" />
+           <property name="bar" type="QString" value="32416688" />
+           <property name="cat" type="QString" value="Medicines" />
+           <property name="buy" type="double" value="1.25" />
+           <property name="sell" type="double" value="1.52" />
+         </object>
+
+         <object class="ItemProp" name="" >
+           <property name="des" type="QString" value="Ballpoint pen" />
+           <property name="bar" type="QString" value="54123145998" />
+           <property name="cat" type="QString" value="Stationary" />
+           <property name="buy" type="double" value="1.1" />
+           <property name="sell" type="double" value="1.55" />
+         </object>
+         </object>
